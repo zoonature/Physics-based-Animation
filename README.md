@@ -1,5 +1,6 @@
 # Physics-based-Animation
-Physics based animation project by using GlowScript (web version of VPython)
+My physics based animation project by using GlowScript (web version of VPython)
+In this repository, I programmed all projects on my own.
 
 You can run my code on [GlowScript website](https://www.glowscript.org/)
 
