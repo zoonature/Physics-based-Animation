@@ -8,5 +8,7 @@ You can run my code on [GlowScript website](https://www.glowscript.org/)
 
 ## Project list
 ### 1. Ballpool simulation
-- can check Gravity mode / Zero-Gravity mode
-- can select and drag ball by using mouse
+```
+  - check Gravity mode / Zero-Gravity mode
+  - select and drag ball by using mouse
+```
