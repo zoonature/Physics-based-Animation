@@ -16,3 +16,8 @@ You can run my code on [GlowScript website](https://www.glowscript.org/)
 ```
   - click to drop the wood box
 ```
+### 3. multi_springs_system_simulation
+```
+  - input how many springs you want to create
+  - select and drag ball by using mouse
+```
