@@ -12,3 +12,7 @@ You can run my code on [GlowScript website](https://www.glowscript.org/)
   - check Gravity mode / Zero-Gravity mode
   - select and drag ball by using mouse
 ```
+### 2. Buoyancy simulation
+```
+  - click to drop the wood box
+```
