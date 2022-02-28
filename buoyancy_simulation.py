@@ -1,3 +1,4 @@
+from vpython import *
 GlowScript 3.0 VPython
 
 # 수조, 박스 만들기
