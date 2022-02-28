@@ -1,3 +1,4 @@
+from vpython import *
 GlowScript 3.0 VPython
 
 # 화면 설정
