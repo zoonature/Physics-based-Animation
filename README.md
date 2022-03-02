@@ -16,7 +16,7 @@ You don't have to any tool to run my code, just can run on [GlowScript website](
 ```
   - click to drop the wood box
 ```
-### 3. multi_springs_system_simulation
+### 3. multi springs system simulation
 ```
   - input how many springs you want to create
   - select and drag ball by using mouse
