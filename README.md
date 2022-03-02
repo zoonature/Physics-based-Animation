@@ -21,3 +21,8 @@ You don't have to any tool to run my code, just can run on [GlowScript website](
   - input how many springs you want to create
   - select and drag ball by using mouse
 ```
+### 4. curling simulation
+```
+  - slide draw speed
+  - click draw button
+```
