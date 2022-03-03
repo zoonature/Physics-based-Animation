@@ -26,8 +26,9 @@ You don't have to any tool to run my code, just can run on [GlowScript website](
   - slide draw speed
   - click draw button
 ```
-### 5. lunar_lander
+### 5. lunar_lander_simulation_game
 ```
   - click to make thrust
   - use direction keys to go forward or backward
+  - there is fuel limit (run out of 5 fuel every time you click)
 ```
