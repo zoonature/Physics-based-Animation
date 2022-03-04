@@ -32,3 +32,8 @@ You don't have to any tool to run my code, just can run on [GlowScript website](
   - use direction keys to go forward or backward
   - there is fuel limit (run out of 5 fuel every time you click)
 ```
+### 6. Newton_apple_simulation
+```
+  - click to start
+  - check that only x direction velocity is important to x direction distance
+```
